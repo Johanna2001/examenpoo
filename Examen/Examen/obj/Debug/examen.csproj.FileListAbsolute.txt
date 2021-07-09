@@ -1,0 +1,11 @@
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.csprojAssemblyReference.cache
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.Form1.resources
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.Properties.Resources.resources
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.csproj.GenerateResource.cache
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.csproj.CoreCompileInputs.cache
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\bin\Debug\Semana03.exe
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\bin\Debug\Semana03.pdb
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.exe
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.pdb
+C:\Users\mileny\Desktop\Tercer Ciclo modulo2\C#\NET1\SEMANA3\Semana03\Semana03\obj\Debug\Semana03.frmSueldo.resources
